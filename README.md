@@ -4,3 +4,4 @@
 - 💨 New projects coming soon
 
 
+### <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueJacobG&repo=io-project"/>
