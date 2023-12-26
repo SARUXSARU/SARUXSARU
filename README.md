@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SARUXSARU
+- 👋 Hi, I’m Łukasz @SARUXSARU
 - 👀 I’m interested in Sport and Programing
-- 🌱 I’m currently learning: C++, SQL
+- 2021/22: C++, SQL
+- 2023/now: JAVA 
 
-
-### <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueJacobG&repo=io-project"/>
